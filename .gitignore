@@ -3,3 +3,4 @@
 /nbproject/private/
 *.wav
 *.jar
+!lib/postgresql-42.7.10.jar
